@@ -1,4 +1,14 @@
-# cV8gewsK
+# Speed Typing Game
+
+A enjoyable game that tests, calculates, and improves typing speed and accuracy is known as a speed typing game. The ability to speed type is also highly helpful for developers because it increases productivity and efficiency.
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+What I learned in creating this project:
+  I learned and deeply understood about React hooks, useState, useEffect, useRef, useContext and such. I also learned how to create custom hooks to reinforce reusability within the development of the application. 
 
 Quick start:
 
@@ -15,14 +25,3 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 $ yarn watch # npm run watch
 ```
 
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
